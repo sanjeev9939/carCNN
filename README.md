@@ -1,5 +1,6 @@
 # Convolutional Neural Network for Car Recognition
-A simple convolutional neural network for *car recognizer* using `keras` library that achieves over *95%* accuracy
+A simple convolutional neural network for *car recognizer* using `keras` library that achieves over *95%* accuracy by using CNN
+
 
 ## Setup:
 - Simply `pip install -r dependencies.txt` or 
